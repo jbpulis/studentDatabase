@@ -73,7 +73,7 @@ public class Student {
 	
 	// show status
 	public String toString() {
-		return "Name: " + firstName + " " + lastName +
+		return "\nName: " + firstName + " " + lastName +
 				"\nGrade level: " + gradeYear +
 				"\nStudent ID: " + studentID +
 				"\nCourses Enrolled: " + courses +
