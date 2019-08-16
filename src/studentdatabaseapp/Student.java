@@ -56,7 +56,7 @@ public class Student {
 	
 	// view balance and pay tuition
 	public void viewBalance() {
-		System.out.println("Your balance is: $" + tuitionBalance);
+		System.out.println("Your balance is: $" + tuitionBalance + "\n");
 	}
 	
 	// pay tuition
@@ -77,7 +77,7 @@ public class Student {
 				"\nGrade level: " + gradeYear +
 				"\nStudent ID: " + studentID +
 				"\nCourses Enrolled: " + courses +
-				"\nBalance: $" + tuitionBalance;
+				"\nBalance: $" + tuitionBalance + "\n";
 	}
 	
 	
