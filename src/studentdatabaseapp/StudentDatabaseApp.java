@@ -3,7 +3,9 @@ package studentdatabaseapp;
 public class StudentDatabaseApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Ask how many users we want to add
+		
+		// Create n number of new students
 
 	}
 
